@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnBho
-- 👀 I’m interested in Music
-- 🌱 I’m currently learning C++, C, Sonic PI, Music Engeenering
+- 👀 I’m interested in Music Engeeniring, Composition, Videogame
+- 🌱 I’m currently learning C++, C, Sonic PI, Music Engeenering, Android
 - 💞️ I’m looking to collaborate on programming application and plug-in for music recording
 - 📫 How to reach me gabry1109@outlook.com
 
